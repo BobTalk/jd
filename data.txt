@@ -1,0 +1,10 @@
+[
+        {"src":"../images/1.jpg","info":"https://www.jd.com"},
+        {"src":"../images/2.jpg","info":"https://www.jd.com"},
+        {"src":"../images/3.jpg","info":"https://www.jd.com"},
+        {"src":"../images/4.jpg","info":"https://www.jd.com"},
+        {"src":"../images/5.jpg","info":"https://www.jd.com"},
+        {"src":"../images/6.jpg","info":"https://www.jd.com"},
+        {"src":"../images/7.jpg","info":"https://www.jd.com"},
+        {"src":"../images/8.jpg","info":"https://www.jd.com"}
+]
